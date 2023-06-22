@@ -17,6 +17,7 @@ This is a simple Android app developed using Android Studio that allows users to
 4. You will be taken to a new screen where your name is displayed along with a birthday cake.
    
 **Contributing**
+
 Contributions are welcome! If you would like to contribute to the development of this app, please follow these steps:
 
 1. Fork the repository.
